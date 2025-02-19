@@ -42,7 +42,7 @@ function App() {
             <WeatherForm onSubmit={fetchWeather} />
 
             {loading && <p>Loading...</p>}
-            {error && <p>{error}</p>}
+            {error && <p className='error'>{error}</p>}
             <WeatherDetails weatherData={weatherData}/>
         </div>
     );

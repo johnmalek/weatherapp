@@ -1,3 +1,5 @@
+import React from "react";
+
 function WeatherDetails({ weatherData, unit }) {
     if (!weatherData) return null;
 

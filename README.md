@@ -8,4 +8,4 @@ An app that uses the OpenWeather API to fetch weather data for a city and displa
 2. API Integration: Fetch weather data from an API like OpenWeatherMap.
 3. Display Data: Show city name, temperature, weather condition, humidity, and wind speed.
 
-![Image] (./src/assets/Screenshot.png)
+![Image](./src/assets/Screenshot.png)
